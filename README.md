@@ -1,5 +1,9 @@
 ### Hi 👋
-I'm Erica from Cyprus. I'm currently studying abroad in the UK as a Computer Science university student at De Montfort. I enjoy UI, UX, and design as a general.
+I'm Erica from Cyprus. I'm currently studying abroad in the UK as a Computer Science student at De Montfort University. 
+
+I have worked with many different programming languages like Scala, PHP, Java, JavaScript and C#. 
+
+I enjoy UI, UX, and building meaningful responsive websites. 
 
 <!--
 **erica63/erica63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
